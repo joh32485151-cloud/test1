@@ -1,0 +1,4098 @@
+{
+  "guid": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0",
+  "success": "100%",
+  "owner": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0",
+  "startedAt": "Thu, 28 Aug 2025 13:41:49 GMT",
+  "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0",
+  "type": "design",
+  "progress": "complete",
+  "status": "success",
+  "hasThumbnail": "true",
+  "region": "US",
+  "children": [
+    {
+      "type": "folder",
+      "role": "viewable",
+      "status": "success",
+      "name": "input.rvt",
+      "hasThumbnail": "true",
+      "urn": "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0",
+      "progress": "complete",
+      "guid": "614c6371-0164-4aee-bac8-a7535b803bf7",
+      "properties": {},
+      "success": "100%",
+      "children": [
+        {
+          "type": "view",
+          "role": "3d",
+          "status": "success",
+          "name": "3d",
+          "progress": "complete",
+          "guid": "3dc87136-e344-4e30-a6bc-9fdebf51e01a-000258e0",
+          "camera": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "type": "resource",
+          "role": "Autodesk.CloudPlatform.PropertyDatabase",
+          "status": "success",
+          "mime": "application/autodesk-db",
+          "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/model.sdb",
+          "guid": "efd16f65-ea33-4860-bd53-b4dd7f0761c6",
+          "size": 6463488
+        },
+        {
+          "type": "resource",
+          "role": "Autodesk.AEC.ModelData",
+          "status": "success",
+          "mime": "application/json",
+          "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/AECModelData.json",
+          "guid": "33ec2d8d-cc69-40bf-a116-a16b9e2e9071"
+        },
+        {
+          "type": "folder",
+          "status": "success",
+          "name": "视图",
+          "hasThumbnail": "true",
+          "progress": "complete",
+          "guid": "0a5e4762-4104-4464-aa41-6aea14595d73",
+          "success": "100%",
+          "children": [
+            {
+              "type": "folder",
+              "status": "success",
+              "name": "三维视图",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "00fd0663-6b40-4c8b-8448-c736e35a1c3e",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "geometry",
+                  "role": "3d",
+                  "status": "success",
+                  "name": "3d",
+                  "hasThumbnail": "true",
+                  "progress": "complete",
+                  "guid": "a4c95d28-29d4-4e36-ba37-1cbd39957b90",
+                  "success": "100%",
+                  "children": [
+                    {
+                      "type": "view",
+                      "role": "3d",
+                      "status": "success",
+                      "name": "3d",
+                      "progress": "complete",
+                      "guid": "3dc87136-e344-4e30-a6bc-9fdebf51e01a-000258e0",
+                      "camera": [
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    },
+                    {
+                      "type": "resource",
+                      "role": "3d",
+                      "mime": "application/autodesk-svf",
+                      "urn": "./3d.svf",
+                      "progress": "graphics",
+                      "guid": "e4648d03-612a-4860-8339-855c12e35104",
+                      "size": 7499240
+                    }
+                  ],
+                  "size": 7499240,
+                  "viewableID": "3dc87136-e344-4e30-a6bc-9fdebf51e01a-000258e0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "status": "success",
+          "name": "图纸",
+          "hasThumbnail": "true",
+          "progress": "complete",
+          "guid": "9581c240-2801-4542-8956-f73ea18ac81b",
+          "success": "100%",
+          "children": [
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "A101 - 索引表",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "d4d1ce43-9fd7-4f5d-8b16-f549461bedd3-001745bd",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_A101_-_索引表/primaryGraphics.f2d",
+                  "guid": "afb7c5d3-fe77-41e9-8caa-cb5f1642082a",
+                  "size": 3585703
+                }
+              ],
+              "size": 3585703,
+              "phaseNames": "",
+              "order": 0,
+              "viewableID": "d4d1ce43-9fd7-4f5d-8b16-f549461bedd3-001745bd"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P211 - FL2-W-15.0cm-G-01-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "c67b2e1e-af11-42c1-9376-46b3ae4da490-0011ca2e",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P211_-_FL2-W-15.0cm-G-01-01製造圖/primaryGraphics.f2d",
+                  "guid": "f5b80e3d-373b-4cd4-8cd9-16871dc02459",
+                  "size": 184110
+                }
+              ],
+              "size": 184110,
+              "phaseNames": "",
+              "order": 1,
+              "viewableID": "c67b2e1e-af11-42c1-9376-46b3ae4da490-0011ca2e"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P212 - FL2-W-15.0cm-B-12製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "bf9abc97-388a-4668-ad10-67b973e51ea5-0011ce83",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P212_-_FL2-W-15.0cm-B-12製造圖/primaryGraphics.f2d",
+                  "guid": "351c3682-9815-46db-aaa4-7f08ed1417df",
+                  "size": 162513
+                }
+              ],
+              "size": 162513,
+              "phaseNames": "",
+              "order": 2,
+              "viewableID": "bf9abc97-388a-4668-ad10-67b973e51ea5-0011ce83"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P213 - FL2-W-15.0cm-G-05-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "969330a3-14bf-42e3-9708-2c4d0c7caa7a-00112e1e",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P213_-_FL2-W-15.0cm-G-05-01製造圖/primaryGraphics.f2d",
+                  "guid": "e3ef581c-6fcf-42f4-a571-134a79171c34",
+                  "size": 202392
+                }
+              ],
+              "size": 202392,
+              "phaseNames": "",
+              "order": 3,
+              "viewableID": "969330a3-14bf-42e3-9708-2c4d0c7caa7a-00112e1e"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P214 - FL2-W-15.0cm-G-04製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "d423e05f-0426-4e4c-a430-e7bc8a51540e-0011a8ac",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P214_-_FL2-W-15.0cm-G-04製造圖/primaryGraphics.f2d",
+                  "guid": "ab0b6b15-de6d-4197-a301-cb09f2d298e7",
+                  "size": 181455
+                }
+              ],
+              "size": 181455,
+              "phaseNames": "",
+              "order": 4,
+              "viewableID": "d423e05f-0426-4e4c-a430-e7bc8a51540e-0011a8ac"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P215 - FL2-W-15.0cm-B-32-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "3fb36a9b-bd53-4bc7-b2ea-ad96bd70bb01-0011ae67",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P215_-_FL2-W-15.0cm-B-32-02製造圖/primaryGraphics.f2d",
+                  "guid": "ca5411b2-a78f-4f22-819f-64a983922ef4",
+                  "size": 161818
+                }
+              ],
+              "size": 161818,
+              "phaseNames": "",
+              "order": 5,
+              "viewableID": "3fb36a9b-bd53-4bc7-b2ea-ad96bd70bb01-0011ae67"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P216 - FL2-W-15.0cm-B-31-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0603bc8e-3b95-4755-a1e9-3d9da56a0160-0011b74d",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P216_-_FL2-W-15.0cm-B-31-02製造圖/primaryGraphics.f2d",
+                  "guid": "f405f14d-870f-4343-87fb-7f9cab74837f",
+                  "size": 161516
+                }
+              ],
+              "size": 161516,
+              "phaseNames": "",
+              "order": 6,
+              "viewableID": "0603bc8e-3b95-4755-a1e9-3d9da56a0160-0011b74d"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P217 - FL2-W-15.0cm-G-03製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "35a2d155-9882-414f-87b5-33417e96cc55-0011beb5",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P217_-_FL2-W-15.0cm-G-03製造圖/primaryGraphics.f2d",
+                  "guid": "d05dad51-8640-45b4-aa71-d9f435bdaa4e",
+                  "size": 183891
+                }
+              ],
+              "size": 183891,
+              "phaseNames": "",
+              "order": 7,
+              "viewableID": "35a2d155-9882-414f-87b5-33417e96cc55-0011beb5"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P218 - FL2-W-15.0cm-G-01-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "61a103a5-76af-4444-87e8-f64f72d20ace-0011c495",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P218_-_FL2-W-15.0cm-G-01-02製造圖/primaryGraphics.f2d",
+                  "guid": "d55e6038-2a4b-4d62-993b-62980a52a876",
+                  "size": 204255
+                }
+              ],
+              "size": 204255,
+              "phaseNames": "",
+              "order": 8,
+              "viewableID": "61a103a5-76af-4444-87e8-f64f72d20ace-0011c495"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P221 - FL2-W-15.0cm-G-73-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "f798fe20-f59c-4aa4-8953-c60e4080c939-001376be",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P221_-_FL2-W-15.0cm-G-73-01製造圖/primaryGraphics.f2d",
+                  "guid": "a30dd8df-d257-4f92-8501-d2537e968b22",
+                  "size": 146185
+                }
+              ],
+              "size": 146185,
+              "phaseNames": "",
+              "order": 9,
+              "viewableID": "f798fe20-f59c-4aa4-8953-c60e4080c939-001376be"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P222 - FL2-W-15.0cm-G-73-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-00137f1a",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P222_-_FL2-W-15.0cm-G-73-02製造圖/primaryGraphics.f2d",
+                  "guid": "5fc94dbb-805d-41cd-b12d-4fea3d88fef1",
+                  "size": 148597
+                }
+              ],
+              "size": 148597,
+              "phaseNames": "",
+              "order": 10,
+              "viewableID": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-00137f1a"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P223 - FL2-W-15.0cm-G-75製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-00138179",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P223_-_FL2-W-15.0cm-G-75製造圖/primaryGraphics.f2d",
+                  "guid": "2f849d5d-b097-4191-ba73-5a1435ce3e1a",
+                  "size": 145814
+                }
+              ],
+              "size": 145814,
+              "phaseNames": "",
+              "order": 11,
+              "viewableID": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-00138179"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P224 - FL2-W-15.0cm-B-57製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-001386fa",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P224_-_FL2-W-15.0cm-B-57製造圖/primaryGraphics.f2d",
+                  "guid": "0c3f1598-c588-4ec5-968a-4942a9681676",
+                  "size": 161133
+                }
+              ],
+              "size": 161133,
+              "phaseNames": "",
+              "order": 12,
+              "viewableID": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-001386fa"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P225 - FL2-W-15.0cm-G-76製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-00138952",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P225_-_FL2-W-15.0cm-G-76製造圖/primaryGraphics.f2d",
+                  "guid": "4641abcd-4a94-4dab-8f32-087c9ec3ea8e",
+                  "size": 146009
+                }
+              ],
+              "size": 146009,
+              "phaseNames": "",
+              "order": 13,
+              "viewableID": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-00138952"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P226 - FL2-W-15.0cm-G-77-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-00138b21",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P226_-_FL2-W-15.0cm-G-77-01製造圖/primaryGraphics.f2d",
+                  "guid": "51603292-ef12-470d-bea8-99dd80265393",
+                  "size": 145044
+                }
+              ],
+              "size": 145044,
+              "phaseNames": "",
+              "order": 14,
+              "viewableID": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-00138b21"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P227 - FL2-W-15.0cm-G-77-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-00138cc4",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P227_-_FL2-W-15.0cm-G-77-02製造圖/primaryGraphics.f2d",
+                  "guid": "c40fdf6d-04e8-4036-a1da-22f3febf1fb8",
+                  "size": 145639
+                }
+              ],
+              "size": 145639,
+              "phaseNames": "",
+              "order": 15,
+              "viewableID": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-00138cc4"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P228 - FL2-W-15.0cm-G-79製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-00138fec",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P228_-_FL2-W-15.0cm-G-79製造圖/primaryGraphics.f2d",
+                  "guid": "07414332-2e94-4b82-828b-4cba1ad7db3e",
+                  "size": 148577
+                }
+              ],
+              "size": 148577,
+              "phaseNames": "",
+              "order": 16,
+              "viewableID": "10af7e9c-a4dc-4e86-a6b8-4debcc7e05f4-00138fec"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P231 - FL2-W-15.0cm-G-29-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "5eecc4f1-eb9e-4373-a745-4c4f0540714d-0011b40b",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P231_-_FL2-W-15.0cm-G-29-02製造圖/primaryGraphics.f2d",
+                  "guid": "2bf20ccb-8742-477e-94a8-5068e6e817d2",
+                  "size": 149602
+                }
+              ],
+              "size": 149602,
+              "phaseNames": "",
+              "order": 17,
+              "viewableID": "5eecc4f1-eb9e-4373-a745-4c4f0540714d-0011b40b"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P232 - FL2-W-15.0cm-G-29-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "ffe0da6b-b8a0-4699-81cd-902b426d9a71-0011b75b",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P232_-_FL2-W-15.0cm-G-29-01製造圖/primaryGraphics.f2d",
+                  "guid": "0199ce01-3f69-431c-8cab-a904aa02f59f",
+                  "size": 148623
+                }
+              ],
+              "size": 148623,
+              "phaseNames": "",
+              "order": 18,
+              "viewableID": "ffe0da6b-b8a0-4699-81cd-902b426d9a71-0011b75b"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P233 - FL2-W-15.0cm-G-28製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "ef91b2e0-761b-4188-a48e-d6a4564f49e6-00120343",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P233_-_FL2-W-15.0cm-G-28製造圖/primaryGraphics.f2d",
+                  "guid": "c7d2455d-8045-4adb-b024-442fcf766b24",
+                  "size": 148924
+                }
+              ],
+              "size": 148924,
+              "phaseNames": "",
+              "order": 19,
+              "viewableID": "ef91b2e0-761b-4188-a48e-d6a4564f49e6-00120343"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P234 - FL2-W-15.0cm-B-30-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "4f4832e5-de20-46a5-8454-b84515d6a25f-00120784",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P234_-_FL2-W-15.0cm-B-30-02製造圖/primaryGraphics.f2d",
+                  "guid": "ad69d082-591f-4af5-8adc-e6e40033a950",
+                  "size": 146975
+                }
+              ],
+              "size": 146975,
+              "phaseNames": "",
+              "order": 20,
+              "viewableID": "4f4832e5-de20-46a5-8454-b84515d6a25f-00120784"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P235 - FL2-W-15.0cm-B-29-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "d418139c-32a7-43dd-b13c-73dfcb0e03e2-00120daa",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P235_-_FL2-W-15.0cm-B-29-02製造圖/primaryGraphics.f2d",
+                  "guid": "33a7b517-7d45-47ce-8dc9-6becd0e3b5ae",
+                  "size": 148972
+                }
+              ],
+              "size": 148972,
+              "phaseNames": "",
+              "order": 21,
+              "viewableID": "d418139c-32a7-43dd-b13c-73dfcb0e03e2-00120daa"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P236 - FL2-W-15.0cm-G-27製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "522d5b9c-7437-4917-9583-0d9fcc8fb461-001211a0",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P236_-_FL2-W-15.0cm-G-27製造圖/primaryGraphics.f2d",
+                  "guid": "6d0bcb82-27f9-4662-a050-3674e750c348",
+                  "size": 147562
+                }
+              ],
+              "size": 147562,
+              "phaseNames": "",
+              "order": 22,
+              "viewableID": "522d5b9c-7437-4917-9583-0d9fcc8fb461-001211a0"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P237 - FL2-W-15.0cm-G-26-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "72787f7e-a34a-410a-a08a-4c9b43074166-0012154a",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P237_-_FL2-W-15.0cm-G-26-02製造圖/primaryGraphics.f2d",
+                  "guid": "cf037de1-432e-405b-aa9a-94a19d0be1a7",
+                  "size": 149473
+                }
+              ],
+              "size": 149473,
+              "phaseNames": "",
+              "order": 23,
+              "viewableID": "72787f7e-a34a-410a-a08a-4c9b43074166-0012154a"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P238 - FL2-W-15.0cm-G-25製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "327eebf3-9781-4500-bfa6-99d61cbb918a-00121826",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P238_-_FL2-W-15.0cm-G-25製造圖/primaryGraphics.f2d",
+                  "guid": "e6fb6319-64e7-4166-a2cd-872b6e0efd48",
+                  "size": 147654
+                }
+              ],
+              "size": 147654,
+              "phaseNames": "",
+              "order": 24,
+              "viewableID": "327eebf3-9781-4500-bfa6-99d61cbb918a-00121826"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P239 - FL2-W-15.0cm-G-26-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "b989aa8f-84f3-424c-b59d-4008542adcda-00149e23",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P239_-_FL2-W-15.0cm-G-26-01製造圖/primaryGraphics.f2d",
+                  "guid": "774d9883-79ae-4aee-b32e-02bb85c4317f",
+                  "size": 147556
+                }
+              ],
+              "size": 147556,
+              "phaseNames": "",
+              "order": 25,
+              "viewableID": "b989aa8f-84f3-424c-b59d-4008542adcda-00149e23"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P240 - FL2-W-15.0cm-B-31-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "88822a03-d0c0-4893-b194-1b8fbb4e38ee-0019674a",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P240_-_FL2-W-15.0cm-B-31-01製造圖/primaryGraphics.f2d",
+                  "guid": "6bb63d11-e232-41e1-9461-44083ea2aac2",
+                  "size": 184095
+                }
+              ],
+              "size": 184095,
+              "phaseNames": "",
+              "order": 26,
+              "viewableID": "88822a03-d0c0-4893-b194-1b8fbb4e38ee-0019674a"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P241 - FL2-W-15.0cm-B-85製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "fa1df6e1-232b-47a4-875c-244935db73f3-0011eb77",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P241_-_FL2-W-15.0cm-B-85製造圖/primaryGraphics.f2d",
+                  "guid": "c8357a2a-22d0-4cd7-8229-02e221f68492",
+                  "size": 201988
+                }
+              ],
+              "size": 201988,
+              "phaseNames": "",
+              "order": 27,
+              "viewableID": "fa1df6e1-232b-47a4-875c-244935db73f3-0011eb77"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P242 - FL2-W-15.0cm-B-86-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-001205a1",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P242_-_FL2-W-15.0cm-B-86-02製造圖/primaryGraphics.f2d",
+                  "guid": "5d9bea2e-b058-4420-b036-c748d56815e4",
+                  "size": 148943
+                }
+              ],
+              "size": 148943,
+              "phaseNames": "",
+              "order": 28,
+              "viewableID": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-001205a1"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P243 - FL2-W-15.0cm-G-82-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-00120a7b",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P243_-_FL2-W-15.0cm-G-82-02製造圖/primaryGraphics.f2d",
+                  "guid": "a7d9da2e-9020-488d-ad72-7dca03969559",
+                  "size": 186529
+                }
+              ],
+              "size": 186529,
+              "phaseNames": "",
+              "order": 29,
+              "viewableID": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-00120a7b"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P244 - FL2-W-15.0cm-G-82-03製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-00121050",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P244_-_FL2-W-15.0cm-G-82-03製造圖/primaryGraphics.f2d",
+                  "guid": "75f5b5b4-f3ba-4d00-bf44-ab5d35a1411e",
+                  "size": 170528
+                }
+              ],
+              "size": 170528,
+              "phaseNames": "",
+              "order": 30,
+              "viewableID": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-00121050"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P245 - FL2-W-15.0cm-G-82-04製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-0012163c",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P245_-_FL2-W-15.0cm-G-82-04製造圖/primaryGraphics.f2d",
+                  "guid": "fef48413-be5c-4571-a64d-454865e227ff",
+                  "size": 190247
+                }
+              ],
+              "size": 190247,
+              "phaseNames": "",
+              "order": 31,
+              "viewableID": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-0012163c"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P246 - FL2-W-15.0cm-G-82-05製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-00121c56",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P246_-_FL2-W-15.0cm-G-82-05製造圖/primaryGraphics.f2d",
+                  "guid": "0e2664d7-bf86-4bf7-975e-971af7f9557a",
+                  "size": 147319
+                }
+              ],
+              "size": 147319,
+              "phaseNames": "",
+              "order": 32,
+              "viewableID": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-00121c56"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P247 - FL2-W-15.0cm-B-61製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-00121dbc",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P247_-_FL2-W-15.0cm-B-61製造圖/primaryGraphics.f2d",
+                  "guid": "723c2b9d-9280-4c7c-bf9c-673a34e072d2",
+                  "size": 143000
+                }
+              ],
+              "size": 143000,
+              "phaseNames": "",
+              "order": 33,
+              "viewableID": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-00121dbc"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P248 - FL2-W-15.0cm-B-62製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-00121edd",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P248_-_FL2-W-15.0cm-B-62製造圖/primaryGraphics.f2d",
+                  "guid": "2bedccd8-2f73-404b-b69c-14ddd17a8fa7",
+                  "size": 144008
+                }
+              ],
+              "size": 144008,
+              "phaseNames": "",
+              "order": 34,
+              "viewableID": "f93b2f1f-0ab7-4250-9ac5-4f391fb6ceb3-00121edd"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P249 - FL2-W-15.0cm-G-82-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "b989aa8f-84f3-424c-b59d-4008542adcda-0014986d",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P249_-_FL2-W-15.0cm-G-82-01製造圖/primaryGraphics.f2d",
+                  "guid": "c60c1135-8c8b-4181-a0ee-ffbc304baa82",
+                  "size": 160298
+                }
+              ],
+              "size": 160298,
+              "phaseNames": "",
+              "order": 35,
+              "viewableID": "b989aa8f-84f3-424c-b59d-4008542adcda-0014986d"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P250 - FL2-W-15.0cm-B-32-01 製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "88822a03-d0c0-4893-b194-1b8fbb4e38ee-00196e32",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P250_-_FL2-W-15.0cm-B-32-01_製造圖/primaryGraphics.f2d",
+                  "guid": "32131814-9b90-4d68-855a-4825baac15e7",
+                  "size": 186879
+                }
+              ],
+              "size": 186879,
+              "phaseNames": "",
+              "order": 36,
+              "viewableID": "88822a03-d0c0-4893-b194-1b8fbb4e38ee-00196e32"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P251 - FL2-W-15.0cm-G-64-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "5f8ee2d7-ca1f-4fe3-ad56-9297616b1ef7-0011eb96",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P251_-_FL2-W-15.0cm-G-64-01製造圖/primaryGraphics.f2d",
+                  "guid": "a88aba63-5eeb-4106-a72c-49933fae1cd4",
+                  "size": 160884
+                }
+              ],
+              "size": 160884,
+              "phaseNames": "",
+              "order": 37,
+              "viewableID": "5f8ee2d7-ca1f-4fe3-ad56-9297616b1ef7-0011eb96"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P252 - FL2-W-15.0cm-G-64-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "5f8ee2d7-ca1f-4fe3-ad56-9297616b1ef7-0011ed21",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P252_-_FL2-W-15.0cm-G-64-02製造圖/primaryGraphics.f2d",
+                  "guid": "405f497d-921b-49f0-be97-7346834e6bee",
+                  "size": 167318
+                }
+              ],
+              "size": 167318,
+              "phaseNames": "",
+              "order": 38,
+              "viewableID": "5f8ee2d7-ca1f-4fe3-ad56-9297616b1ef7-0011ed21"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P253 - FL2-W-15.0cm-B-58製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "ae3b7677-6301-45bc-a4d4-8b9d003eef1c-0011efe6",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P253_-_FL2-W-15.0cm-B-58製造圖/primaryGraphics.f2d",
+                  "guid": "cff1b912-4d10-4397-9eee-b5b862826426",
+                  "size": 161825
+                }
+              ],
+              "size": 161825,
+              "phaseNames": "",
+              "order": 39,
+              "viewableID": "ae3b7677-6301-45bc-a4d4-8b9d003eef1c-0011efe6"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P254 - FL2-W-15.0cm-G-66-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "65830aef-21d9-4c75-9fa9-20cd60b39427-0011f2b1",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P254_-_FL2-W-15.0cm-G-66-01製造圖/primaryGraphics.f2d",
+                  "guid": "1f6c670c-f413-4266-9ff7-c57bdb81ded0",
+                  "size": 164146
+                }
+              ],
+              "size": 164146,
+              "phaseNames": "",
+              "order": 40,
+              "viewableID": "65830aef-21d9-4c75-9fa9-20cd60b39427-0011f2b1"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P255 - FL2-W-15.0cm-B-44製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "65830aef-21d9-4c75-9fa9-20cd60b39427-0011fede",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P255_-_FL2-W-15.0cm-B-44製造圖/primaryGraphics.f2d",
+                  "guid": "fb36b6c8-63d1-47ca-8fbc-7737a9214aad",
+                  "size": 160036
+                }
+              ],
+              "size": 160036,
+              "phaseNames": "",
+              "order": 41,
+              "viewableID": "65830aef-21d9-4c75-9fa9-20cd60b39427-0011fede"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P256 - FL2-W-15.0cm-G-66-03製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "65830aef-21d9-4c75-9fa9-20cd60b39427-0011f5d5",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P256_-_FL2-W-15.0cm-G-66-03製造圖/primaryGraphics.f2d",
+                  "guid": "26977bb7-9e9c-46a8-bfa3-918f401299fd",
+                  "size": 180772
+                }
+              ],
+              "size": 180772,
+              "phaseNames": "",
+              "order": 42,
+              "viewableID": "65830aef-21d9-4c75-9fa9-20cd60b39427-0011f5d5"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P257 - FL2-W-15.0cm-B-43製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "65830aef-21d9-4c75-9fa9-20cd60b39427-0011f727",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P257_-_FL2-W-15.0cm-B-43製造圖/primaryGraphics.f2d",
+                  "guid": "888a5751-3277-49fc-b732-fd4c47e560d8",
+                  "size": 160204
+                }
+              ],
+              "size": 160204,
+              "phaseNames": "",
+              "order": 43,
+              "viewableID": "65830aef-21d9-4c75-9fa9-20cd60b39427-0011f727"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P258 - FL2-W-15.0cm-G-66-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "65830aef-21d9-4c75-9fa9-20cd60b39427-0011f479",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P258_-_FL2-W-15.0cm-G-66-02製造圖/primaryGraphics.f2d",
+                  "guid": "bc98010a-88c1-4748-8da1-e557feb2b884",
+                  "size": 148405
+                }
+              ],
+              "size": 148405,
+              "phaseNames": "",
+              "order": 44,
+              "viewableID": "65830aef-21d9-4c75-9fa9-20cd60b39427-0011f479"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P261 - FL2-W-15.0cm-G-36製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0c469fc9-0f76-4385-b48b-e0629b5245c0-001167be",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P261_-_FL2-W-15.0cm-G-36製造圖/primaryGraphics.f2d",
+                  "guid": "a80cdbeb-30d6-4ea7-9c10-0d8c33e244ea",
+                  "size": 147562
+                }
+              ],
+              "size": 147562,
+              "phaseNames": "",
+              "order": 45,
+              "viewableID": "0c469fc9-0f76-4385-b48b-e0629b5245c0-001167be"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P262 - FL2-W-15.0cm-G-37-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0c469fc9-0f76-4385-b48b-e0629b5245c0-001169c3",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P262_-_FL2-W-15.0cm-G-37-01製造圖/primaryGraphics.f2d",
+                  "guid": "1be623e3-1bf2-43e0-8fa7-ada74e18d1d4",
+                  "size": 147127
+                }
+              ],
+              "size": 147127,
+              "phaseNames": "",
+              "order": 46,
+              "viewableID": "0c469fc9-0f76-4385-b48b-e0629b5245c0-001169c3"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P263 - FL2-W-15.0cm-G-37-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "a6fdf863-a82a-47ee-be6d-4b3956d77e29-00116c40",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P263_-_FL2-W-15.0cm-G-37-02製造圖/primaryGraphics.f2d",
+                  "guid": "1fb13cee-4d01-437d-8e29-f04b5d6a63cd",
+                  "size": 183502
+                }
+              ],
+              "size": 183502,
+              "phaseNames": "",
+              "order": 47,
+              "viewableID": "a6fdf863-a82a-47ee-be6d-4b3956d77e29-00116c40"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P264 - FL2-W-15.0cm-B-30-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "a6fdf863-a82a-47ee-be6d-4b3956d77e29-00116ec3",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P264_-_FL2-W-15.0cm-B-30-01製造圖/primaryGraphics.f2d",
+                  "guid": "230777db-9e22-4ec5-bfeb-ec5e3257ef2b",
+                  "size": 187954
+                }
+              ],
+              "size": 187954,
+              "phaseNames": "",
+              "order": 48,
+              "viewableID": "a6fdf863-a82a-47ee-be6d-4b3956d77e29-00116ec3"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P265 - FL2-W-15.0cm-G-39-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "2118ce09-3cde-481c-aaa5-bd67f0a6969b-00117470",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P265_-_FL2-W-15.0cm-G-39-01製造圖/primaryGraphics.f2d",
+                  "guid": "9dabff70-80ca-4646-869c-0a6cb7612085",
+                  "size": 179810
+                }
+              ],
+              "size": 179810,
+              "phaseNames": "",
+              "order": 49,
+              "viewableID": "2118ce09-3cde-481c-aaa5-bd67f0a6969b-00117470"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P266 - FL2-W-15.0cm-G-39-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "2118ce09-3cde-481c-aaa5-bd67f0a6969b-001175ed",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P266_-_FL2-W-15.0cm-G-39-02製造圖/primaryGraphics.f2d",
+                  "guid": "1d7cc73d-12a0-4362-b2ca-4260e36943f8",
+                  "size": 148419
+                }
+              ],
+              "size": 148419,
+              "phaseNames": "",
+              "order": 50,
+              "viewableID": "2118ce09-3cde-481c-aaa5-bd67f0a6969b-001175ed"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P267 - FL2-W-15.0cm-G-39-03製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "46353298-6c1d-4c3f-97a6-ad7f8b40278e-00119340",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P267_-_FL2-W-15.0cm-G-39-03製造圖/primaryGraphics.f2d",
+                  "guid": "ec017da9-9cea-4c9c-a6b0-8e524c5e6090",
+                  "size": 149849
+                }
+              ],
+              "size": 149849,
+              "phaseNames": "",
+              "order": 51,
+              "viewableID": "46353298-6c1d-4c3f-97a6-ad7f8b40278e-00119340"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P268 - FL2-W-15.0cm-G-42製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "46353298-6c1d-4c3f-97a6-ad7f8b40278e-001195b3",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P268_-_FL2-W-15.0cm-G-42製造圖/primaryGraphics.f2d",
+                  "guid": "e20c55a5-9f81-49bb-af6a-989028f52c1c",
+                  "size": 163506
+                }
+              ],
+              "size": 163506,
+              "phaseNames": "",
+              "order": 52,
+              "viewableID": "46353298-6c1d-4c3f-97a6-ad7f8b40278e-001195b3"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P271 - FL2-W-15.0cm-B-42製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-001145c2",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P271_-_FL2-W-15.0cm-B-42製造圖/primaryGraphics.f2d",
+                  "guid": "bfb9bf2e-abca-4998-beb4-10b573c22ce3",
+                  "size": 191918
+                }
+              ],
+              "size": 191918,
+              "phaseNames": "",
+              "order": 53,
+              "viewableID": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-001145c2"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P272 - FL2-W-15.0cm-G-61製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-0011493d",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P272_-_FL2-W-15.0cm-G-61製造圖/primaryGraphics.f2d",
+                  "guid": "00eba9b1-f007-491d-a760-f0c246e5adda",
+                  "size": 145469
+                }
+              ],
+              "size": 145469,
+              "phaseNames": "",
+              "order": 54,
+              "viewableID": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-0011493d"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P273 - FL2-W-15.0cm-G-56製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-00115265",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P273_-_FL2-W-15.0cm-G-56製造圖/primaryGraphics.f2d",
+                  "guid": "e446e552-541c-4768-9fcc-b1e8e1edb285",
+                  "size": 159113
+                }
+              ],
+              "size": 159113,
+              "phaseNames": "",
+              "order": 55,
+              "viewableID": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-00115265"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P274 - FL2-W-15.0cm-B-29-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-0011544d",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P274_-_FL2-W-15.0cm-B-29-01製造圖/primaryGraphics.f2d",
+                  "guid": "ec85a121-a62b-4066-a4cd-8d95ef7ebce4",
+                  "size": 187911
+                }
+              ],
+              "size": 187911,
+              "phaseNames": "",
+              "order": 56,
+              "viewableID": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-0011544d"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P275 - FL2-W-15.0cm-G-59-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-00115976",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P275_-_FL2-W-15.0cm-G-59-01製造圖/primaryGraphics.f2d",
+                  "guid": "d42cfa1d-35e1-4014-ab6a-4a748fab06cd",
+                  "size": 158339
+                }
+              ],
+              "size": 158339,
+              "phaseNames": "",
+              "order": 57,
+              "viewableID": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-00115976"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P276 - FL2-W-15.0cm-B-48製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-00115df7",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P276_-_FL2-W-15.0cm-B-48製造圖/primaryGraphics.f2d",
+                  "guid": "e86c7216-0d7c-4a3c-84e2-abed7c044d78",
+                  "size": 176484
+                }
+              ],
+              "size": 176484,
+              "phaseNames": "",
+              "order": 58,
+              "viewableID": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-00115df7"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P277 - FL2-W-15.0cm-G-59-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-00116430",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P277_-_FL2-W-15.0cm-G-59-02製造圖/primaryGraphics.f2d",
+                  "guid": "088f7333-c63f-4ecb-a433-37b50828d69c",
+                  "size": 176346
+                }
+              ],
+              "size": 176346,
+              "phaseNames": "",
+              "order": 59,
+              "viewableID": "24c58275-efd4-467e-bdf4-28ebc3c8de2e-00116430"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P280 - FL2-W-15.0cm-B-65製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0abf7afc-6489-4542-9abc-08db6b6a6eb0-0017dfee",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P280_-_FL2-W-15.0cm-B-65製造圖/primaryGraphics.f2d",
+                  "guid": "324d0185-696a-43f1-82ad-a95c06196d58",
+                  "size": 178370
+                }
+              ],
+              "size": 178370,
+              "phaseNames": "",
+              "order": 60,
+              "viewableID": "0abf7afc-6489-4542-9abc-08db6b6a6eb0-0017dfee"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P281 - FL2-W-15.0cm-B-84製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "8ca5399b-c189-4ef1-89ee-af688738d81b-0011bd28",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P281_-_FL2-W-15.0cm-B-84製造圖/primaryGraphics.f2d",
+                  "guid": "61af72ae-5f4d-4dd7-a038-b3106c656a23",
+                  "size": 206856
+                }
+              ],
+              "size": 206856,
+              "phaseNames": "",
+              "order": 61,
+              "viewableID": "8ca5399b-c189-4ef1-89ee-af688738d81b-0011bd28"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P282 - FL2-W-15.0cm-G-104-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "5c9739a2-7e16-4007-94f7-46edf0e7586d-0011c81a",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P282_-_FL2-W-15.0cm-G-104-01製造圖/primaryGraphics.f2d",
+                  "guid": "e34412ef-dae1-4060-a0f1-634148395d97",
+                  "size": 210463
+                }
+              ],
+              "size": 210463,
+              "phaseNames": "",
+              "order": 62,
+              "viewableID": "5c9739a2-7e16-4007-94f7-46edf0e7586d-0011c81a"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P283 - FL2-W-15.0cm-G-104-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "693cff45-5ac7-4dbe-b697-26779d898a93-0011d125",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P283_-_FL2-W-15.0cm-G-104-02製造圖/primaryGraphics.f2d",
+                  "guid": "c0087561-0533-44f5-b0ae-f0e46794dd59",
+                  "size": 181499
+                }
+              ],
+              "size": 181499,
+              "phaseNames": "",
+              "order": 63,
+              "viewableID": "693cff45-5ac7-4dbe-b697-26779d898a93-0011d125"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P284 - FL2-W-15.0cm-G-107製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "5eecb617-e821-4923-ad77-83fa304c0385-0011d7dd",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P284_-_FL2-W-15.0cm-G-107製造圖/primaryGraphics.f2d",
+                  "guid": "d64b8f0b-338f-4afd-814c-d68b9925d4e1",
+                  "size": 180871
+                }
+              ],
+              "size": 180871,
+              "phaseNames": "",
+              "order": 64,
+              "viewableID": "5eecb617-e821-4923-ad77-83fa304c0385-0011d7dd"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P285 - FL2-W-15.0cm-B-86-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "1faae596-8526-4dbb-ad83-80cd4e7dc1d4-0011dc10",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P285_-_FL2-W-15.0cm-B-86-01製造圖/primaryGraphics.f2d",
+                  "guid": "d2c75777-a193-4d9c-80ee-fe9626e7fa7a",
+                  "size": 150814
+                }
+              ],
+              "size": 150814,
+              "phaseNames": "",
+              "order": 65,
+              "viewableID": "1faae596-8526-4dbb-ad83-80cd4e7dc1d4-0011dc10"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P286 - FL2-W-15.0cm-G-108製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "51bdd098-0fb3-4805-b828-5ee3687faa0a-0011e0e7",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P286_-_FL2-W-15.0cm-G-108製造圖/primaryGraphics.f2d",
+                  "guid": "a2f94f04-b006-424c-b155-415321323050",
+                  "size": 183182
+                }
+              ],
+              "size": 183182,
+              "phaseNames": "",
+              "order": 66,
+              "viewableID": "51bdd098-0fb3-4805-b828-5ee3687faa0a-0011e0e7"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P287 - FL2-W-15.0cm-G-110製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "b78a4232-09c5-4c43-b07a-84f8a4fcf62d-0011e741",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P287_-_FL2-W-15.0cm-G-110製造圖/primaryGraphics.f2d",
+                  "guid": "f75b7f1b-2e7e-4beb-bcd3-21691629fb96",
+                  "size": 179598
+                }
+              ],
+              "size": 179598,
+              "phaseNames": "",
+              "order": 67,
+              "viewableID": "b78a4232-09c5-4c43-b07a-84f8a4fcf62d-0011e741"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P291 - FL2-W-15.0cm-B-07製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "29cca9d4-70b4-4b61-82de-cfdb555caf42-0011195f",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P291_-_FL2-W-15.0cm-B-07製造圖/primaryGraphics.f2d",
+                  "guid": "28c27de4-565e-4e85-930b-705e8fa687db",
+                  "size": 144511
+                }
+              ],
+              "size": 144511,
+              "phaseNames": "",
+              "order": 68,
+              "viewableID": "29cca9d4-70b4-4b61-82de-cfdb555caf42-0011195f"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P292 - FL2-W-15.0cm-G-05-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "969330a3-14bf-42e3-9708-2c4d0c7caa7a-0011270f",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P292_-_FL2-W-15.0cm-G-05-02製造圖/primaryGraphics.f2d",
+                  "guid": "b57c5fcd-f3cd-427b-8a43-1cae660f9bc9",
+                  "size": 187027
+                }
+              ],
+              "size": 187027,
+              "phaseNames": "",
+              "order": 69,
+              "viewableID": "969330a3-14bf-42e3-9708-2c4d0c7caa7a-0011270f"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P293 - FL2-W-15.0cm-G-22製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "eba54355-be8c-48bc-89f2-7bf3b8853a40-0019f2fd",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P293_-_FL2-W-15.0cm-G-22製造圖/primaryGraphics.f2d",
+                  "guid": "b4de84e8-ffb4-462f-a3d6-7f828a9f781a",
+                  "size": 161090
+                }
+              ],
+              "size": 161090,
+              "phaseNames": "",
+              "order": 70,
+              "viewableID": "eba54355-be8c-48bc-89f2-7bf3b8853a40-0019f2fd"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P511 - FL5-W-15.0cm-B-08製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a356",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P511_-_FL5-W-15.0cm-B-08製造圖/primaryGraphics.f2d",
+                  "guid": "713d2c84-d951-4e54-87d6-ce5b4cb3e79b",
+                  "size": 140010
+                }
+              ],
+              "size": 140010,
+              "phaseNames": "",
+              "order": 71,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a356"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P512 - FL5-W-15.0cm-B-07製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a365",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P512_-_FL5-W-15.0cm-B-07製造圖/primaryGraphics.f2d",
+                  "guid": "3c4230ef-51c5-455b-8367-535e64c1bef7",
+                  "size": 127298
+                }
+              ],
+              "size": 127298,
+              "phaseNames": "",
+              "order": 72,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a365"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P513 - FL5-W-15.0cm-B-09製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a374",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P513_-_FL5-W-15.0cm-B-09製造圖/primaryGraphics.f2d",
+                  "guid": "ef71daf9-5794-4ac7-a9e9-8da954fb43f6",
+                  "size": 140767
+                }
+              ],
+              "size": 140767,
+              "phaseNames": "",
+              "order": 73,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a374"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P514 - FL5-W-15.0cm-B-12製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a383",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P514_-_FL5-W-15.0cm-B-12製造圖/primaryGraphics.f2d",
+                  "guid": "1cf1ae54-7869-41f1-b725-eaccceaa7f46",
+                  "size": 142905
+                }
+              ],
+              "size": 142905,
+              "phaseNames": "",
+              "order": 74,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a383"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P515 - FL5-W-15.0cm-B-19製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a392",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P515_-_FL5-W-15.0cm-B-19製造圖/primaryGraphics.f2d",
+                  "guid": "3079d104-4b15-46e9-9f0a-1aaaac953cb8",
+                  "size": 141947
+                }
+              ],
+              "size": 141947,
+              "phaseNames": "",
+              "order": 75,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a392"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P516 - FL5-W-15.0cm-B-20製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3a1",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P516_-_FL5-W-15.0cm-B-20製造圖/primaryGraphics.f2d",
+                  "guid": "d4b871dd-7aca-4d48-b49f-a44d2b8ca33a",
+                  "size": 142462
+                }
+              ],
+              "size": 142462,
+              "phaseNames": "",
+              "order": 76,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3a1"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P517 - FL5-W-15.0cm-B-28製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3b0",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P517_-_FL5-W-15.0cm-B-28製造圖/primaryGraphics.f2d",
+                  "guid": "26b690fe-794b-4365-9431-e997c1c0e13c",
+                  "size": 127900
+                }
+              ],
+              "size": 127900,
+              "phaseNames": "",
+              "order": 77,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3b0"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P518 - FL5-W-15.0cm-B-29製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3bf",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P518_-_FL5-W-15.0cm-B-29製造圖/primaryGraphics.f2d",
+                  "guid": "7bf30075-8501-4ada-aaee-9bd26be50477",
+                  "size": 129061
+                }
+              ],
+              "size": 129061,
+              "phaseNames": "",
+              "order": 78,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3bf"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P519 - FL5-W-15.0cm-B-37製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3ce",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P519_-_FL5-W-15.0cm-B-37製造圖/primaryGraphics.f2d",
+                  "guid": "fd76064f-3089-4580-b7aa-db1fdae90fa9",
+                  "size": 141833
+                }
+              ],
+              "size": 141833,
+              "phaseNames": "",
+              "order": 79,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3ce"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P521 - FL5-W-15.0cm-B-38製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3dd",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P521_-_FL5-W-15.0cm-B-38製造圖/primaryGraphics.f2d",
+                  "guid": "6dfb5c24-0308-42b6-aa35-fc46a8eeda59",
+                  "size": 142816
+                }
+              ],
+              "size": 142816,
+              "phaseNames": "",
+              "order": 80,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3dd"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P522 - FL5-W-15.0cm-B-50製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3ec",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P522_-_FL5-W-15.0cm-B-50製造圖/primaryGraphics.f2d",
+                  "guid": "5b71ea0b-8e04-4880-9406-bab174a30898",
+                  "size": 144686
+                }
+              ],
+              "size": 144686,
+              "phaseNames": "",
+              "order": 81,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3ec"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P523 - FL5-W-15.0cm-B-51製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3fb",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P523_-_FL5-W-15.0cm-B-51製造圖/primaryGraphics.f2d",
+                  "guid": "00a07f38-bd2d-474d-9757-e44f5d23ab9a",
+                  "size": 144312
+                }
+              ],
+              "size": 144312,
+              "phaseNames": "",
+              "order": 82,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a3fb"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P524 - FL5-W-15.0cm-B-52製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a40a",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P524_-_FL5-W-15.0cm-B-52製造圖/primaryGraphics.f2d",
+                  "guid": "25bdaaee-2cee-4706-8035-6d29d8c8a525",
+                  "size": 153975
+                }
+              ],
+              "size": 153975,
+              "phaseNames": "",
+              "order": 83,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a40a"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P525 - FL5-W-15.0cm-B-55製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a419",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P525_-_FL5-W-15.0cm-B-55製造圖/primaryGraphics.f2d",
+                  "guid": "bc79ef64-4b44-4b9c-8702-a02ea904b871",
+                  "size": 158319
+                }
+              ],
+              "size": 158319,
+              "phaseNames": "",
+              "order": 84,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a419"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P526 - FL5-W-15.0cm-B-66製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a428",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P526_-_FL5-W-15.0cm-B-66製造圖/primaryGraphics.f2d",
+                  "guid": "aa0e0212-ae25-4216-97e2-cf529fa3cdae",
+                  "size": 146899
+                }
+              ],
+              "size": 146899,
+              "phaseNames": "",
+              "order": 85,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a428"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P527 - FL5-W-15.0cm-B-67製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a437",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P527_-_FL5-W-15.0cm-B-67製造圖/primaryGraphics.f2d",
+                  "guid": "9e8b1489-cd73-435d-9679-587f83cf011d",
+                  "size": 144636
+                }
+              ],
+              "size": 144636,
+              "phaseNames": "",
+              "order": 86,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a437"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P528 - FL5-W-15.0cm-B-70製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a446",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P528_-_FL5-W-15.0cm-B-70製造圖/primaryGraphics.f2d",
+                  "guid": "d297aa46-c03f-428e-bdbf-b4f3b822df84",
+                  "size": 128859
+                }
+              ],
+              "size": 128859,
+              "phaseNames": "",
+              "order": 87,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a446"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P529 - FL5-W-15.0cm-B-73製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a455",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P529_-_FL5-W-15.0cm-B-73製造圖/primaryGraphics.f2d",
+                  "guid": "1b5cc42a-17f8-46c3-8cd1-b032b806d012",
+                  "size": 131811
+                }
+              ],
+              "size": 131811,
+              "phaseNames": "",
+              "order": 88,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a455"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P531 - FL5-W-15.0cm-B-79-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a464",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P531_-_FL5-W-15.0cm-B-79-01製造圖/primaryGraphics.f2d",
+                  "guid": "a5a0449a-349e-45ea-96a4-c5e6ca34f5f9",
+                  "size": 128509
+                }
+              ],
+              "size": 128509,
+              "phaseNames": "",
+              "order": 89,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a464"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P532 - FL5-W-15.0cm-B-79-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a473",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P532_-_FL5-W-15.0cm-B-79-02製造圖/primaryGraphics.f2d",
+                  "guid": "e3338593-deb7-435a-b233-f332d641e089",
+                  "size": 130944
+                }
+              ],
+              "size": 130944,
+              "phaseNames": "",
+              "order": 90,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a473"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P533 - FL5-W-15.0cm-B-99製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a482",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P533_-_FL5-W-15.0cm-B-99製造圖/primaryGraphics.f2d",
+                  "guid": "5cb34074-9784-4e7f-8ca0-1d6dc00d0ad7",
+                  "size": 128754
+                }
+              ],
+              "size": 128754,
+              "phaseNames": "",
+              "order": 91,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a482"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P534 - FL5-W-15.0cm-G-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a491",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P534_-_FL5-W-15.0cm-G-02製造圖/primaryGraphics.f2d",
+                  "guid": "b40b1e6b-8b6b-4458-a374-89f5eaf710ed",
+                  "size": 130101
+                }
+              ],
+              "size": 130101,
+              "phaseNames": "",
+              "order": 92,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a491"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P535 - FL5-W-15.0cm-G-07製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4a0",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P535_-_FL5-W-15.0cm-G-07製造圖/primaryGraphics.f2d",
+                  "guid": "a1e8b83c-4ba8-4c8d-9fe0-80d621bca272",
+                  "size": 130094
+                }
+              ],
+              "size": 130094,
+              "phaseNames": "",
+              "order": 93,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4a0"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P536 - FL5-W-15.0cm-G-27-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4af",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P536_-_FL5-W-15.0cm-G-27-01製造圖/primaryGraphics.f2d",
+                  "guid": "f221ae46-cb94-4449-acb5-52721389ea29",
+                  "size": 130177
+                }
+              ],
+              "size": 130177,
+              "phaseNames": "",
+              "order": 94,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4af"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P537 - FL5-W-15.0cm-G-27-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4be",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P537_-_FL5-W-15.0cm-G-27-02製造圖/primaryGraphics.f2d",
+                  "guid": "6ef3543a-e2d6-44d3-adab-16ff4b2d0ca8",
+                  "size": 130770
+                }
+              ],
+              "size": 130770,
+              "phaseNames": "",
+              "order": 95,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4be"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P538 - FL5-W-15.0cm-G-29製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4cd",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P538_-_FL5-W-15.0cm-G-29製造圖/primaryGraphics.f2d",
+                  "guid": "5a94c3f1-bea9-4ee7-96c9-4674a5caae85",
+                  "size": 133120
+                }
+              ],
+              "size": 133120,
+              "phaseNames": "",
+              "order": 96,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4cd"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P539 - FL5-W-15.0cm-G-30製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4dc",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P539_-_FL5-W-15.0cm-G-30製造圖/primaryGraphics.f2d",
+                  "guid": "90aa87e0-32ce-4f8c-9c58-b5cd66afae84",
+                  "size": 132914
+                }
+              ],
+              "size": 132914,
+              "phaseNames": "",
+              "order": 97,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4dc"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P541 - FL5-W-15.0cm-G-31-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4eb",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P541_-_FL5-W-15.0cm-G-31-01製造圖/primaryGraphics.f2d",
+                  "guid": "bbe78fc4-82a7-46cf-8c7c-31cea6bd1072",
+                  "size": 128708
+                }
+              ],
+              "size": 128708,
+              "phaseNames": "",
+              "order": 98,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4eb"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P542 - FL5-W-15.0cm-G-31-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4fa",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P542_-_FL5-W-15.0cm-G-31-02製造圖/primaryGraphics.f2d",
+                  "guid": "9be5ff2a-ab9e-4719-adb0-b2ff8a362b08",
+                  "size": 131114
+                }
+              ],
+              "size": 131114,
+              "phaseNames": "",
+              "order": 99,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a4fa"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P543 - FL5-W-15.0cm-G-38-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a509",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P543_-_FL5-W-15.0cm-G-38-01製造圖/primaryGraphics.f2d",
+                  "guid": "feafe232-ca7d-48e8-8093-9f2f2a15d762",
+                  "size": 132231
+                }
+              ],
+              "size": 132231,
+              "phaseNames": "",
+              "order": 100,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a509"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P544 - FL5-W-15.0cm-G-38-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a518",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P544_-_FL5-W-15.0cm-G-38-02製造圖/primaryGraphics.f2d",
+                  "guid": "e3a1d135-32ff-4ed8-8666-4f053fd93e26",
+                  "size": 166505
+                }
+              ],
+              "size": 166505,
+              "phaseNames": "",
+              "order": 101,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a518"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P545 - FL5-W-15.0cm-G-40-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a527",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P545_-_FL5-W-15.0cm-G-40-01製造圖/primaryGraphics.f2d",
+                  "guid": "86a88c7f-3fb4-4a98-9f25-b897e0d6688f",
+                  "size": 165384
+                }
+              ],
+              "size": 165384,
+              "phaseNames": "",
+              "order": 102,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a527"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P546 - FL5-W-15.0cm-G-40-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a536",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P546_-_FL5-W-15.0cm-G-40-02製造圖/primaryGraphics.f2d",
+                  "guid": "9d483e66-9593-431d-85e2-fc18a9d45567",
+                  "size": 128491
+                }
+              ],
+              "size": 128491,
+              "phaseNames": "",
+              "order": 103,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a536"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P547 - FL5-W-15.0cm-G-40-03製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a545",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P547_-_FL5-W-15.0cm-G-40-03製造圖/primaryGraphics.f2d",
+                  "guid": "cfe9420a-13bc-4c83-9472-95543618351f",
+                  "size": 161212
+                }
+              ],
+              "size": 161212,
+              "phaseNames": "",
+              "order": 104,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a545"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P548 - FL5-W-15.0cm-G-55製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a554",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P548_-_FL5-W-15.0cm-G-55製造圖/primaryGraphics.f2d",
+                  "guid": "93ebe839-f36b-40cc-93de-2d22380704d3",
+                  "size": 142377
+                }
+              ],
+              "size": 142377,
+              "phaseNames": "",
+              "order": 105,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a554"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P549 - FL5-W-15.0cm-G-58-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a563",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P549_-_FL5-W-15.0cm-G-58-01製造圖/primaryGraphics.f2d",
+                  "guid": "3ba0a91e-92fb-4e69-a885-1b314a822b83",
+                  "size": 156893
+                }
+              ],
+              "size": 156893,
+              "phaseNames": "",
+              "order": 106,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a563"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P552 - FL5-W-15.0cm-G-60製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a581",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P552_-_FL5-W-15.0cm-G-60製造圖/primaryGraphics.f2d",
+                  "guid": "ae8c9d6e-288d-407d-a469-e50f243d1d13",
+                  "size": 133329
+                }
+              ],
+              "size": 133329,
+              "phaseNames": "",
+              "order": 107,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a581"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P553 - FL5-W-15.0cm-G-63-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a590",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P553_-_FL5-W-15.0cm-G-63-01製造圖/primaryGraphics.f2d",
+                  "guid": "e022d15c-7a44-4b36-b922-329248e29d9c",
+                  "size": 129577
+                }
+              ],
+              "size": 129577,
+              "phaseNames": "",
+              "order": 108,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a590"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P554 - FL5-W-15.0cm-G-63-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a59f",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P554_-_FL5-W-15.0cm-G-63-02製造圖/primaryGraphics.f2d",
+                  "guid": "5506604e-4ed8-4f75-a8b1-1c8974ef1ce4",
+                  "size": 151308
+                }
+              ],
+              "size": 151308,
+              "phaseNames": "",
+              "order": 109,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a59f"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P555 - FL5-W-15.0cm-G-65-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a5ae",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P555_-_FL5-W-15.0cm-G-65-01製造圖/primaryGraphics.f2d",
+                  "guid": "404306a0-9a2c-4084-850c-444098c16d04",
+                  "size": 147437
+                }
+              ],
+              "size": 147437,
+              "phaseNames": "",
+              "order": 110,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a5ae"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P556 - FL5-W-15.0cm-G-65-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a5bd",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P556_-_FL5-W-15.0cm-G-65-02製造圖/primaryGraphics.f2d",
+                  "guid": "b37f39b2-5e58-4e43-97f6-4b778b651f9a",
+                  "size": 130053
+                }
+              ],
+              "size": 130053,
+              "phaseNames": "",
+              "order": 111,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a5bd"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P557 - FL5-W-15.0cm-G-65-03製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a5cc",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P557_-_FL5-W-15.0cm-G-65-03製造圖/primaryGraphics.f2d",
+                  "guid": "23111303-e526-433c-9054-c14a32aa1a8a",
+                  "size": 155829
+                }
+              ],
+              "size": 155829,
+              "phaseNames": "",
+              "order": 112,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a5cc"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P558 - FL5-W-15.0cm-G-72-01 製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a5db",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P558_-_FL5-W-15.0cm-G-72-01_製造圖/primaryGraphics.f2d",
+                  "guid": "9d320dc7-b16c-4f42-b4da-f72c74d6b2e2",
+                  "size": 131192
+                }
+              ],
+              "size": 131192,
+              "phaseNames": "",
+              "order": 113,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a5db"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P559 - FL5-W-15.0cm-G-72-02 製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a5ea",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P559_-_FL5-W-15.0cm-G-72-02_製造圖/primaryGraphics.f2d",
+                  "guid": "160e9453-7041-40c5-ac16-5f7b1e15b284",
+                  "size": 132609
+                }
+              ],
+              "size": 132609,
+              "phaseNames": "",
+              "order": 114,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a5ea"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P561 - FL5-W-15.0cm-G-74製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a608",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P561_-_FL5-W-15.0cm-G-74製造圖/primaryGraphics.f2d",
+                  "guid": "81a71656-3a77-4ea8-a052-2114bfd486bd",
+                  "size": 128646
+                }
+              ],
+              "size": 128646,
+              "phaseNames": "",
+              "order": 115,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a608"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P562 - FL5-W-15.0cm-G-75製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a617",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P562_-_FL5-W-15.0cm-G-75製造圖/primaryGraphics.f2d",
+                  "guid": "301eca63-100b-4941-869f-d0b9c2448a72",
+                  "size": 130108
+                }
+              ],
+              "size": 130108,
+              "phaseNames": "",
+              "order": 116,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a617"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P563 - FL5-W-15.0cm-G-76-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a626",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P563_-_FL5-W-15.0cm-G-76-01製造圖/primaryGraphics.f2d",
+                  "guid": "8f1e2a85-724c-4261-9652-f27ba7e31a90",
+                  "size": 130616
+                }
+              ],
+              "size": 130616,
+              "phaseNames": "",
+              "order": 117,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a626"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P564 - FL5-W-15.0cm-G-76-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a635",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P564_-_FL5-W-15.0cm-G-76-02製造圖/primaryGraphics.f2d",
+                  "guid": "bf7e15e9-4950-434c-8dc5-c4f16a73db29",
+                  "size": 131276
+                }
+              ],
+              "size": 131276,
+              "phaseNames": "",
+              "order": 118,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a635"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P565 - FL5-W-15.0cm-G-78製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a644",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P565_-_FL5-W-15.0cm-G-78製造圖/primaryGraphics.f2d",
+                  "guid": "83cc4e92-43cc-4f1e-bd50-f6621a902a21",
+                  "size": 132609
+                }
+              ],
+              "size": 132609,
+              "phaseNames": "",
+              "order": 119,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a644"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P566 - FL5-W-15.0cm-B-69製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a653",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P566_-_FL5-W-15.0cm-B-69製造圖/primaryGraphics.f2d",
+                  "guid": "4e02bd63-e5d3-428a-adbd-183c4546d627",
+                  "size": 131473
+                }
+              ],
+              "size": 131473,
+              "phaseNames": "",
+              "order": 120,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a653"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P567 - FL5-W-15.0cm-G-82-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a662",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P567_-_FL5-W-15.0cm-G-82-01製造圖/primaryGraphics.f2d",
+                  "guid": "0b5f449c-b4bb-4752-8a41-ea71a4a1d985",
+                  "size": 131855
+                }
+              ],
+              "size": 131855,
+              "phaseNames": "",
+              "order": 121,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a662"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P568 - FL5-W-15.0cm-G-82-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a671",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P568_-_FL5-W-15.0cm-G-82-02製造圖/primaryGraphics.f2d",
+                  "guid": "6d7c41e2-eed9-4a14-8e0e-7ae6c43c4a5b",
+                  "size": 150330
+                }
+              ],
+              "size": 150330,
+              "phaseNames": "",
+              "order": 122,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a671"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P569 - FL5-W-15.0cm-G-82-03製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a680",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P569_-_FL5-W-15.0cm-G-82-03製造圖/primaryGraphics.f2d",
+                  "guid": "9393152b-445d-4f8b-a912-55d798df221d",
+                  "size": 133968
+                }
+              ],
+              "size": 133968,
+              "phaseNames": "",
+              "order": 123,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a680"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P571 - FL5-W-15.0cm-G-82-04製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a69e",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P571_-_FL5-W-15.0cm-G-82-04製造圖/primaryGraphics.f2d",
+                  "guid": "719810c9-5a06-40ca-9a28-9ae52bf133f5",
+                  "size": 146668
+                }
+              ],
+              "size": 146668,
+              "phaseNames": "",
+              "order": 124,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a69e"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P572 - FL5-W-15.0cm-G-88-01製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a6ad",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P572_-_FL5-W-15.0cm-G-88-01製造圖/primaryGraphics.f2d",
+                  "guid": "80de7fad-4fca-49d1-baf4-0925f8059838",
+                  "size": 144251
+                }
+              ],
+              "size": 144251,
+              "phaseNames": "",
+              "order": 125,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a6ad"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P573 - FL5-W-15.0cm-G-88-02製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a6bc",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P573_-_FL5-W-15.0cm-G-88-02製造圖/primaryGraphics.f2d",
+                  "guid": "f53ba4f8-7f63-46e6-b8ca-f9fa5a7b3024",
+                  "size": 130070
+                }
+              ],
+              "size": 130070,
+              "phaseNames": "",
+              "order": 126,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a6bc"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P574 - FL5-W-15.0cm-G-111製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a6cb",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P574_-_FL5-W-15.0cm-G-111製造圖/primaryGraphics.f2d",
+                  "guid": "33bd6cf3-1032-4239-a8a8-647a9e22e64b",
+                  "size": 127254
+                }
+              ],
+              "size": 127254,
+              "phaseNames": "",
+              "order": 127,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a6cb"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P575 - FL5-W-15.0cm-G-113製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a6da",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P575_-_FL5-W-15.0cm-G-113製造圖/primaryGraphics.f2d",
+                  "guid": "80486b58-e264-48fa-922d-82e019610bab",
+                  "size": 126218
+                }
+              ],
+              "size": 126218,
+              "phaseNames": "",
+              "order": 128,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a6da"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P576 - FL5-W-15.0cm-G-115製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a6e9",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P576_-_FL5-W-15.0cm-G-115製造圖/primaryGraphics.f2d",
+                  "guid": "682cb4cf-2f13-4bea-a899-8c47d7eaaeb9",
+                  "size": 128677
+                }
+              ],
+              "size": 128677,
+              "phaseNames": "",
+              "order": 129,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a6e9"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P577 - FL5-W-15.0cm-G-117製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a6f8",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P577_-_FL5-W-15.0cm-G-117製造圖/primaryGraphics.f2d",
+                  "guid": "0400fa9d-46fc-4133-96d3-5d9ee21bc1f7",
+                  "size": 126897
+                }
+              ],
+              "size": 126897,
+              "phaseNames": "",
+              "order": 130,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a6f8"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P578 - FL5-W-15.0cm-G-118製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a707",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P578_-_FL5-W-15.0cm-G-118製造圖/primaryGraphics.f2d",
+                  "guid": "25c692b8-76f5-4945-b60d-396e18b66126",
+                  "size": 129549
+                }
+              ],
+              "size": 129549,
+              "phaseNames": "",
+              "order": 131,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a707"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P579 - FL5-W-15.0cm-G-120製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a716",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P579_-_FL5-W-15.0cm-G-120製造圖/primaryGraphics.f2d",
+                  "guid": "441dfb48-2f10-4434-bb55-fce1ce6aba66",
+                  "size": 129305
+                }
+              ],
+              "size": 129305,
+              "phaseNames": "",
+              "order": 132,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a716"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P581 - FL5-W-15.0cm-G-122製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a734",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P581_-_FL5-W-15.0cm-G-122製造圖/primaryGraphics.f2d",
+                  "guid": "a561f12c-4716-4800-801c-d2f148e79e76",
+                  "size": 126484
+                }
+              ],
+              "size": 126484,
+              "phaseNames": "",
+              "order": 133,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a734"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "P582 - FL5-W-15.0cm-G-124製造圖",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a743",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_P582_-_FL5-W-15.0cm-G-124製造圖/primaryGraphics.f2d",
+                  "guid": "050e1949-92e5-4600-a886-230ebc8ca906",
+                  "size": 129251
+                }
+              ],
+              "size": 129251,
+              "phaseNames": "",
+              "order": 134,
+              "viewableID": "0d214e95-c6cc-4b88-b98b-079b0cbc1722-0018a743"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP121 - 2-4樓牆區塊圖(上)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "f7b30547-61f5-44cb-841b-a182811cb1a8-00102277",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP121_-_2-4樓牆區塊圖(上)/primaryGraphics.f2d",
+                  "guid": "90c2732a-bfaf-4db2-a530-b06ef95c0831",
+                  "size": 1011012
+                }
+              ],
+              "size": 1011012,
+              "phaseNames": "",
+              "order": 135,
+              "viewableID": "f7b30547-61f5-44cb-841b-a182811cb1a8-00102277"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP122 - 2-4樓牆區塊圖(右)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "f7b30547-61f5-44cb-841b-a182811cb1a8-0010228a",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP122_-_2-4樓牆區塊圖(右)/primaryGraphics.f2d",
+                  "guid": "29823c6d-f3a3-46e2-9ace-eda07999e6f1",
+                  "size": 993398
+                }
+              ],
+              "size": 993398,
+              "phaseNames": "",
+              "order": 136,
+              "viewableID": "f7b30547-61f5-44cb-841b-a182811cb1a8-0010228a"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP123 - 2-4樓牆區塊圖(左)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "f7b30547-61f5-44cb-841b-a182811cb1a8-00102326",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP123_-_2-4樓牆區塊圖(左)/primaryGraphics.f2d",
+                  "guid": "c1db6b53-c2e3-485a-a326-46214acd5cf1",
+                  "size": 876050
+                }
+              ],
+              "size": 876050,
+              "phaseNames": "",
+              "order": 137,
+              "viewableID": "f7b30547-61f5-44cb-841b-a182811cb1a8-00102326"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP151 - 5樓牆區塊圖(上)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "a1bacdf9-1ca6-4410-a819-53ad86f6a836-0017e992",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP151_-_5樓牆區塊圖(上)/primaryGraphics.f2d",
+                  "guid": "23864750-8915-4731-815c-021735d4a680",
+                  "size": 1133032
+                }
+              ],
+              "size": 1133032,
+              "phaseNames": "",
+              "order": 138,
+              "viewableID": "a1bacdf9-1ca6-4410-a819-53ad86f6a836-0017e992"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP152 - 5樓牆區塊圖(右)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "a1bacdf9-1ca6-4410-a819-53ad86f6a836-0017e9a1",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP152_-_5樓牆區塊圖(右)/primaryGraphics.f2d",
+                  "guid": "7e8fe840-75f1-49f2-8485-ed89e9686a18",
+                  "size": 999630
+                }
+              ],
+              "size": 999630,
+              "phaseNames": "",
+              "order": 139,
+              "viewableID": "a1bacdf9-1ca6-4410-a819-53ad86f6a836-0017e9a1"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP153 - 5樓牆區塊圖(左)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "a1bacdf9-1ca6-4410-a819-53ad86f6a836-0017e9b0",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP153_-_5樓牆區塊圖(左)/primaryGraphics.f2d",
+                  "guid": "12c6411d-a66a-4717-9ca0-d7d61bc081f3",
+                  "size": 913630
+                }
+              ],
+              "size": 913630,
+              "phaseNames": "",
+              "order": 140,
+              "viewableID": "a1bacdf9-1ca6-4410-a819-53ad86f6a836-0017e9b0"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP221 - 2-4樓柱區塊圖(上)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "79bc85a9-a7b1-4df6-8015-ff9827842e44-0013dacf",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP221_-_2-4樓柱區塊圖(上)/primaryGraphics.f2d",
+                  "guid": "38e29339-def0-48a5-af8b-c596b39e8fd1",
+                  "size": 365936
+                }
+              ],
+              "size": 365936,
+              "phaseNames": "",
+              "order": 141,
+              "viewableID": "79bc85a9-a7b1-4df6-8015-ff9827842e44-0013dacf"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP222 - 2-4樓柱區塊圖(右)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "79bc85a9-a7b1-4df6-8015-ff9827842e44-0013db91",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP222_-_2-4樓柱區塊圖(右)/primaryGraphics.f2d",
+                  "guid": "6b439a99-11ac-4b0b-ae5e-5e39b26cc173",
+                  "size": 308330
+                }
+              ],
+              "size": 308330,
+              "phaseNames": "",
+              "order": 142,
+              "viewableID": "79bc85a9-a7b1-4df6-8015-ff9827842e44-0013db91"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP223 - 2-4樓柱區塊圖(左)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "79bc85a9-a7b1-4df6-8015-ff9827842e44-0013db80",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP223_-_2-4樓柱區塊圖(左)/primaryGraphics.f2d",
+                  "guid": "f4257af1-2147-4fdc-a302-dbe675c406d1",
+                  "size": 307634
+                }
+              ],
+              "size": 307634,
+              "phaseNames": "",
+              "order": 143,
+              "viewableID": "79bc85a9-a7b1-4df6-8015-ff9827842e44-0013db80"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP251 - 5樓柱區塊圖(上)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "32e84e64-9ab2-4f98-a374-505caa298d85-00168da8",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP251_-_5樓柱區塊圖(上)/primaryGraphics.f2d",
+                  "guid": "bda73559-ccc8-4eca-8519-25682dc26ca0",
+                  "size": 362598
+                }
+              ],
+              "size": 362598,
+              "phaseNames": "",
+              "order": 144,
+              "viewableID": "32e84e64-9ab2-4f98-a374-505caa298d85-00168da8"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP252 - 5樓柱區塊圖(右)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "32e84e64-9ab2-4f98-a374-505caa298d85-00168dc6",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP252_-_5樓柱區塊圖(右)/primaryGraphics.f2d",
+                  "guid": "fcb1c102-b06c-44d8-bcfd-6e9763165768",
+                  "size": 306808
+                }
+              ],
+              "size": 306808,
+              "phaseNames": "",
+              "order": 145,
+              "viewableID": "32e84e64-9ab2-4f98-a374-505caa298d85-00168dc6"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP253 - 5樓柱區塊圖(左)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "32e84e64-9ab2-4f98-a374-505caa298d85-00168db7",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP253_-_5樓柱區塊圖(左)/primaryGraphics.f2d",
+                  "guid": "75edabff-da08-4076-b800-6c67d67d6468",
+                  "size": 308527
+                }
+              ],
+              "size": 308527,
+              "phaseNames": "",
+              "order": 146,
+              "viewableID": "32e84e64-9ab2-4f98-a374-505caa298d85-00168db7"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP331 - 3樓梁區塊圖(上)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "93517677-b733-422f-815b-6e0403492502-00173a78",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP331_-_3樓梁區塊圖(上)/primaryGraphics.f2d",
+                  "guid": "df807419-fbf2-4057-899d-17fb74935539",
+                  "size": 608165
+                }
+              ],
+              "size": 608165,
+              "phaseNames": "",
+              "order": 147,
+              "viewableID": "93517677-b733-422f-815b-6e0403492502-00173a78"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP332 - 3樓梁區塊圖(右)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "93517677-b733-422f-815b-6e0403492502-00173a87",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP332_-_3樓梁區塊圖(右)/primaryGraphics.f2d",
+                  "guid": "a6f3fbef-c590-449d-9e6e-a85a4411cada",
+                  "size": 772378
+                }
+              ],
+              "size": 772378,
+              "phaseNames": "",
+              "order": 148,
+              "viewableID": "93517677-b733-422f-815b-6e0403492502-00173a87"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP333 - 3樓梁區塊圖(左)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "93517677-b733-422f-815b-6e0403492502-00173a9f",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP333_-_3樓梁區塊圖(左)/primaryGraphics.f2d",
+                  "guid": "cc0274ac-3869-4d4a-97b6-e48ceb8901f9",
+                  "size": 504601
+                }
+              ],
+              "size": 504601,
+              "phaseNames": "",
+              "order": 149,
+              "viewableID": "93517677-b733-422f-815b-6e0403492502-00173a9f"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP341 - 4樓梁區塊圖(上)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "93517677-b733-422f-815b-6e0403492502-00173bee",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP341_-_4樓梁區塊圖(上)/primaryGraphics.f2d",
+                  "guid": "71841200-0ebb-44d9-b220-5c6a9bc57b6b",
+                  "size": 574426
+                }
+              ],
+              "size": 574426,
+              "phaseNames": "",
+              "order": 150,
+              "viewableID": "93517677-b733-422f-815b-6e0403492502-00173bee"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP342 - 4樓梁區塊圖(右)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "93517677-b733-422f-815b-6e0403492502-00173c3f",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP342_-_4樓梁區塊圖(右)/primaryGraphics.f2d",
+                  "guid": "b5743cac-419f-4df0-b723-f4d801a48038",
+                  "size": 724702
+                }
+              ],
+              "size": 724702,
+              "phaseNames": "",
+              "order": 151,
+              "viewableID": "93517677-b733-422f-815b-6e0403492502-00173c3f"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP343 - 4樓梁區塊圖(左)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "93517677-b733-422f-815b-6e0403492502-00173c5a",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP343_-_4樓梁區塊圖(左)/primaryGraphics.f2d",
+                  "guid": "d074232d-4929-4cbe-b50f-7473bb7074d7",
+                  "size": 481390
+                }
+              ],
+              "size": 481390,
+              "phaseNames": "",
+              "order": 152,
+              "viewableID": "93517677-b733-422f-815b-6e0403492502-00173c5a"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP351 - 5樓梁區塊圖(上)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "32e84e64-9ab2-4f98-a374-505caa298d85-00168548",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP351_-_5樓梁區塊圖(上)/primaryGraphics.f2d",
+                  "guid": "ae543821-b626-468b-a74e-9f1d8ed05413",
+                  "size": 595405
+                }
+              ],
+              "size": 595405,
+              "phaseNames": "",
+              "order": 153,
+              "viewableID": "32e84e64-9ab2-4f98-a374-505caa298d85-00168548"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP352 - 5樓梁區塊圖(右)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "32e84e64-9ab2-4f98-a374-505caa298d85-001685a7",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP352_-_5樓梁區塊圖(右)/primaryGraphics.f2d",
+                  "guid": "3e6dd63c-28ee-43b2-b49a-da13bf87e5fb",
+                  "size": 763902
+                }
+              ],
+              "size": 763902,
+              "phaseNames": "",
+              "order": 154,
+              "viewableID": "32e84e64-9ab2-4f98-a374-505caa298d85-001685a7"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP353 - 5樓梁區塊圖(左)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "32e84e64-9ab2-4f98-a374-505caa298d85-0016855a",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP353_-_5樓梁區塊圖(左)/primaryGraphics.f2d",
+                  "guid": "84db6521-c46a-4476-904d-90a5250be94d",
+                  "size": 495130
+                }
+              ],
+              "size": 495130,
+              "phaseNames": "",
+              "order": 155,
+              "viewableID": "32e84e64-9ab2-4f98-a374-505caa298d85-0016855a"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP361 - RF1樓梁區塊圖(上)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "7e77e076-31b4-41b8-9270-74e02d5b9718-0018e76f",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP361_-_RF1樓梁區塊圖(上)/primaryGraphics.f2d",
+                  "guid": "f8a4ee92-cc7b-41c1-ab84-daa335370790",
+                  "size": 516437
+                }
+              ],
+              "size": 516437,
+              "phaseNames": "",
+              "order": 156,
+              "viewableID": "7e77e076-31b4-41b8-9270-74e02d5b9718-0018e76f"
+            },
+            {
+              "type": "geometry",
+              "role": "2d",
+              "status": "success",
+              "name": "PP362 - RF1樓梁區塊圖(右)",
+              "hasThumbnail": "true",
+              "progress": "complete",
+              "guid": "7e77e076-31b4-41b8-9270-74e02d5b9718-0018e77e",
+              "success": "100%",
+              "children": [
+                {
+                  "type": "resource",
+                  "role": "graphics",
+                  "status": "success",
+                  "mime": "application/autodesk-f2d",
+                  "urn": "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltYW5nbGUvaW5wdXQucnZ0/f2d_圖紙_PP362_-_RF1樓梁區塊圖(右)/primaryGraphics.f2d",
+                  "guid": "e8119ea0-d275-4a4e-86ef-6271c9b676da",
+                  "size": 611447
+                }
+              ],
+              "size": 611447,
+              "phaseNames": "",
+              "order": 157,
+              "viewableID": "7e77e076-31b4-41b8-9270-74e02d5b9718-0018e77e"
+            }
+          ]
+        }
+      ],
+      "version": "2.0"
+    }
+  ]
+}
