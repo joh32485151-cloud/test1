@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>雲端BIM平台－創優微圖</title>
+  <style>
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f5f7fa;
+  overflow: hidden;
+}
+
+.desktop-flex {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+}
+
+.section {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.left {
+  width: 15%;
+  background-color: #ffffff;
+  border-right: 1px solid #ddd;
+}
+
+.center {
+  width: 70%;
+  background-color: #eaf0f6;
+}
+
+.right {
+  width: 15%;
+  background-color: #ffffff;
+  border-left: 1px solid #ddd;
+}
+
+h3 {
+  text-align: center;
+  color: #333;
+  margin: 0;
+  padding: 10px 0;
+  flex-shrink: 0;
+}
+
+iframe {
+  flex-grow: 1;
+  border: none;
+  width: 100%;
+}
+
+.link-container {
+  text-align: center;
+  padding: 8px 0;
+  flex-shrink: 0;
+}
+
+.open-link {
+  display: inline-block;
+  padding: 6px 12px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.open-link:hover {
+  background-color: #0056b3;
+}
+
+@media (max-width: 768px) {
+  .desktop-flex {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .left, .center, .right {
+    width: 100%;
+    height: auto;
+    border: none;
+  }
+
+  iframe {
+    height: 70vh;
+    flex-grow: 0;
+  }
+
+  body {
+    overflow: auto;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="desktop-flex">
+
+  <div class="section left">
+<h3>工程狀態動態展示</h3>
+    <h3>最新消息</h3>
+    <div id="news-table-container" style="overflow:auto; max-height: 300px; font-size: 13px;"></div>
+
+    <h3>圖紙建置進度</h3>
+    <canvas id="progress-chart" width="200" height="200"></canvas>
+  </div>
+
+
+  <!-- 雲端模型 -->
+  <div class="section center">
+    <h3>雲端模型</h3>
+
+    <iframe src="http://59.124.206.14:8082/20250722Taitung/index-online-v7.html" title="雲端模型"></iframe>
+    <div class="link-container">
+      <a href="http://59.124.206.14:8082/20250722Taitung/index-online-v7.html" target="_blank" class="open-link">另開雲端模型視窗</a>
+    </div>
+  </div>
+
+  <!-- 模型圖紙 -->
+  <div class="section right">
+    <h3>模型圖紙清單</h3>
+    <iframe src="http://59.124.206.14:8082/20250722Taitung/drawinglist.html" title="圖紙清單"></iframe>
+    <div class="link-container">
+      <a href="http://59.124.206.14:8082/20250722Taitung/drawinglist.html" target="_blank" class="open-link">另開模型圖紙視窗</a>
+    </div>
+  </div>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  // 載入最新消息表格
+  fetch('latest_news.json')
+    .then(res => res.json())
+    .then(data => {
+      const container = document.getElementById('news-table-container');
+      let table = '<table border="1" style="width:100%; border-collapse: collapse;"><thead><tr>';
+      const keys = Object.keys(data[0]);
+      keys.forEach(key => {
+        table += `<th onclick="sortTable('${key}')">${key}</th>`;
+      });
+      table += '</tr></thead><tbody>';
+      data.forEach(row => {
+        table += '<tr>';
+        keys.forEach(key => {
+          table += `<td>${row[key]}</td>`;
+        });
+        table += '</tr>';
+      });
+      table += '</tbody></table>';
+      container.innerHTML = table;
+    });
+
+  let currentSortKey = '';
+  let ascending = true;
+
+  function sortTable(key) {
+    fetch('latest_news.json')
+      .then(res => res.json())
+      .then(data => {
+        if (currentSortKey === key) ascending = !ascending;
+        else ascending = true;
+        currentSortKey = key;
+
+        data.sort((a, b) => {
+          if (!isNaN(Date.parse(a[key])) && !isNaN(Date.parse(b[key]))) {
+            return ascending ? new Date(a[key]) - new Date(b[key]) : new Date(b[key]) - new Date(a[key]);
+          }
+          return ascending ? (a[key] > b[key] ? 1 : -1) : (a[key] < b[key] ? 1 : -1);
+        });
+
+        const container = document.getElementById('news-table-container');
+        let table = '<table border="1" style="width:100%; border-collapse: collapse;"><thead><tr>';
+        const keys = Object.keys(data[0]);
+        keys.forEach(k => {
+          table += `<th onclick="sortTable('${k}')">${k}</th>`;
+        });
+        table += '</tr></thead><tbody>';
+        data.forEach(row => {
+          table += '<tr>';
+          keys.forEach(k => {
+            table += `<td>${row[k]}</td>`;
+          });
+          table += '</tr>';
+        });
+        table += '</tbody></table>';
+        container.innerHTML = table;
+      });
+  }
+
+  // 載入型錄建置進度
+  fetch('drawing_progress.json')
+    .then(res => res.json())
+    .then(data => {
+      const completed = data.completed;
+      const total = data.total;
+      const notCompleted = total - completed;
+      const ctx = document.getElementById('progress-chart').getContext('2d');
+      new Chart(ctx, {
+        type: 'pie',
+        data: {
+          labels: ['已完成 (%)', '未完成 (%)'],
+          datasets: [{
+            data: [completed, notCompleted],
+            backgroundColor: ['#4caf50', '#f44336']
+          }]
+        },
+        options: {
+          plugins: {
+            tooltip: {
+              callbacks: {
+                label: function(context) {
+                  const percent = (context.raw / total * 100).toFixed(1);
+                  return `${context.label}: ${percent}% (${context.raw}項)`;
+                }
+              }
+            }
+          }
+        }
+      });
+    });
+</script>
+
+</body>
+</html>
