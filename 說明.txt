@@ -1,0 +1,14 @@
+Forgeviewerwithdrawing.html
+要修改四個位置為正確的網址路徑
+
+latest_news.json
+最新消息資料庫
+
+drawing_progress.json
+圖紙建置資料庫
+
+Forgeviewerwithdrawing.html
+latest_news.json
+drawing_progress.json
+drawinglist.html
+四個檔案要複製到資料夾
